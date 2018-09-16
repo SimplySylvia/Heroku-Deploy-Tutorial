@@ -1,6 +1,8 @@
 # Deploying Django to Heroku!
 
-![heroku logo](https://www.vectorlogo.zone/logos/heroku/heroku-card.png) + ![django](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/106095482/original/6a2a7fc989e1b0add530c7bfbbc5c22eed2cf379/do-any-python-or-django-task.png)
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-card.png" width="150px">
+<img src="https://media.tenor.com/images/18b767b668c6cf5bbb1b7d2c062c8060/tenor.gif" width="150px">
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/106095482/original/6a2a7fc989e1b0add530c7bfbbc5c22eed2cf379/do-any-python-or-django-task.png" width="150px">
 
 ## Set up Heroku
 
