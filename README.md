@@ -156,7 +156,7 @@ Finally we have to add a folder for the static files to go. under your main proj
 Inside your project folder run..
 
 ```
-heroku create --buildpack heroku/python
+heroku create [project name] --buildpack heroku/python
 
 ```
 This will take some time as heroku sets up your heroku remote git.
